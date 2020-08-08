@@ -1,0 +1,9 @@
+C:\Users\asad\Desktop\SEM-2\PFX\PRE PFX MID\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\asad\Desktop\SEM-2\PFX\PRE PFX MID\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\asad\Desktop\SEM-2\PFX\PRE PFX MID\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\asad\Desktop\SEM-2\PFX\PRE PFX MID\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojResolveAssemblyReference.cache
+C:\Users\asad\Desktop\SEM-2\PFX\PRE PFX MID\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\asad\Desktop\SEM-2\PFX\PRE PFX MID\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.Cache
+C:\Users\asad\Desktop\SEM-2\PFX\PRE PFX MID\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\asad\Desktop\SEM-2\PFX\PRE PFX MID\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\asad\Desktop\SEM-2\PFX\PRE PFX MID\MineSweeper\MineSweeper\obj\Debug\MineSweeper.MineSweeper.resources
